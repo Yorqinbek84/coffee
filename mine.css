@@ -1,0 +1,254 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	max-width: 1400px;
+	width: 100%;
+	margin: auto;
+}
+
+.header{
+	display: flex;
+	align-items: stretch;
+}
+.main{
+	position: relative;
+
+	display: flex;
+
+	width: 1076px;
+	height: 768px;
+	margin-left: 50px;
+}
+.main .logo{
+	width: 328px;
+	height: 768px;
+}
+
+.main .logo img{
+	position: absolute;
+	top: 75px;
+	left: 90px;
+}
+.main .logo h2{
+	position: absolute;
+	bottom:64px;
+	left: 145px;
+	font-size: 54px;
+	line-height: 70px;
+}
+.main .logo h2 span{
+	background: #C7A17A;
+	color:white;
+}
+.main-inner{
+	width: 757px;
+	height: 768px;
+	background: url(C:/yorkin/images/svg/ajoyib.svg) center top/cover;
+}
+
+.menu{
+	width: 328px;
+	height: 768px;
+	background: #415167; 
+}
+.center{
+	text-align: center;
+
+}
+
+.center h3{
+	font-family: Nunito;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 24px;
+	letter-spacing: 0px;
+;
+
+}
+.center h2{
+	font-family: Montserrat;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 900;
+	line-height: 34px;
+	letter-spacing: 0px;
+	color: #415167;
+
+
+}
+.group{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 100px;
+}
+.group > div{
+	text-align: center;
+	width: 226px;
+}
+.end{
+	text-align: center;
+	height: 906px;
+	width: 1530px;
+	left: -269px;
+	top: 1380px;
+	border-radius: 0px;
+
+}
+.end h3{
+	text-align: center;
+	font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0px;
+
+}
+.end p{
+font-family: Montserrat;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: 34px;
+letter-spacing: 0px;
+
+
+}
+.Coffee{
+	text-align: center;
+
+}
+.Coffee p{
+	font-family: Montserrat;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 900;
+	line-height: 34px;
+	letter-spacing: 0px;
+	
+
+}
+.REVO{
+
+}
+.revo_inner{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 30px;
+}
+.button{
+	width: 270px;
+	display: flex;
+	align-items:center;
+	justify-content: space-between;
+}
+.revo-item{
+	height: 256px;
+	width: 559px;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background: #ffffff;
+}
+.revo-item p{
+	font-size: 20px;
+	color: #C7A17A;
+	line-height: 24px;
+	font-family: Nunito;
+
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+}
+.revo-item button{
+	background: #F9F5E8;
+	border-radius: 30px;
+	border:none;
+	padding: 15px 40px;
+}
+.revo-item h4{
+	font-family: Nunito;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+
+color: #151D28;
+}
+.obshiy{
+	position: relative;
+}
+.mask{
+	position: absolute;
+	height: 894px;
+	width: 384px;
+	top:0;
+	left: 0;
+	background:  #415167;
+	z-index: -1;
+}
+.penultimate{
+	margin-top:380px; 
+}
+.title{
+	text-align: center;
+}
+.container{
+	width: 794px;
+	height: 460px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.container h4{
+height: 20px;
+width: 79.35294342041016px;
+left: 555px;
+top: 66px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
